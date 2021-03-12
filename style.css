@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+ul.a {
+  list-style-type: upper-roman;
+}
+ol.b {
+  list-style-type: circle;
+}
+table, th, td {
+  border: 1px solid black
+}
+h2 {
+    color: rgb(190, 110, 114);
+    margin-left: 40px;
+  }
+
+p1 {
+    color:rgb(210, 230, 124);
+    font-size: 20px;
+  }
